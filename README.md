@@ -95,6 +95,7 @@ Server will run at:
 ```json
 {
   "name": "Anoop",
+  "age": 22,
   "email": "anoop@example.com",
   "phone": "9876543210",
   "course": "Maths"
@@ -108,6 +109,7 @@ Server will run at:
   "student": {
     "id": 1,
     "name": "Anoop",
+    "age": 22,
     "email": "anoop@example.com",
     "phone": "9876543210",
     "course": "Maths"
